@@ -44,3 +44,4 @@ class CollegePartnersModel(models.Model):
     class Meta:
         verbose_name = 'Партнёры колледжа'
         verbose_name_plural = 'Партнёры колледжа'
+

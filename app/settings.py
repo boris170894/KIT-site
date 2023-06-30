@@ -120,7 +120,7 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/4.2/topics/i18n/
 
-LANGUAGE_CODE = 'kk'
+LANGUAGE_CODE = 'ru'
 
 TIME_ZONE = 'Asia/Almaty'
 
@@ -128,7 +128,7 @@ USE_I18N = True
 
 USE_TZ = True
 
-MODELTRANSLATION_DEFAULT_LANGUAGE = 'kk'
+MODELTRANSLATION_DEFAULT_LANGUAGE = 'ru'
 MODELTRANSLATION_PREPOPULATE_LANGUAGE = 'ru'
 
 LANGUAGES = [

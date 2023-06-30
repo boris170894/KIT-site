@@ -7,7 +7,6 @@ from .models import *
 
 
 """ CKEditor """
-
 class DirectorAdminForm(forms.ModelForm):
     info_ru = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[ru]')
     info_kk = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[kk]')
