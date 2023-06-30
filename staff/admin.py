@@ -72,6 +72,13 @@ class CmcITAdminForm(forms.ModelForm):
         model = CmcITModel
         fields = '__all__'   
  
+class CmcFIZAdminForm(forms.ModelForm):
+    info_ru = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[ru]')
+    info_kk = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[kk]')
+
+    class Meta:
+        model = CmcFIZModel
+        fields = '__all__'   
 
 """ Регистрация моделей в админке """
 @admin.register(PositionModel)
@@ -127,3 +134,4 @@ class CmcITAdmin(TranslationAdmin):
 class CmcFIZAdmin(TranslationAdmin):
     list_display = ('fio',)
     prepopulated_fields = {'slug':('fio',)}
+    form = CmcFIZAdminForm
