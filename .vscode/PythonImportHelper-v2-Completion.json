@@ -121,6 +121,14 @@
         "documentation": {}
     },
     {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
         "label": "settings",
         "importPath": "django.conf",
         "description": "django.conf",
@@ -624,7 +632,7 @@
         "kind": 5,
         "importPath": "app.settings",
         "description": "app.settings",
-        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-lgrf$8=_@3zf-&j-@v)ma%aw&2sz%ll)mov(&#5yp1s^-a7_0u'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-lgrf$8=_@3zf-&j-@v)ma%aw&2sz%ll)mov(&#5yp1s^-a7_0u'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['*']\n# Application definition\nINSTALLED_APPS = [",
         "detail": "app.settings",
         "documentation": {}
     },
@@ -633,7 +641,7 @@
         "kind": 5,
         "importPath": "app.settings",
         "description": "app.settings",
-        "peekOfCode": "SECRET_KEY = 'django-insecure-lgrf$8=_@3zf-&j-@v)ma%aw&2sz%ll)mov(&#5yp1s^-a7_0u'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    #translate\n    'modeltranslation',\n    #default\n    'django.contrib.admin',",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-lgrf$8=_@3zf-&j-@v)ma%aw&2sz%ll)mov(&#5yp1s^-a7_0u'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['*']\n# Application definition\nINSTALLED_APPS = [\n    #translate\n    'modeltranslation',\n    #default\n    'django.contrib.admin',",
         "detail": "app.settings",
         "documentation": {}
     },
@@ -642,7 +650,7 @@
         "kind": 5,
         "importPath": "app.settings",
         "description": "app.settings",
-        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    #translate\n    'modeltranslation',\n    #default\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = ['*']\n# Application definition\nINSTALLED_APPS = [\n    #translate\n    'modeltranslation',\n    #default\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',",
         "detail": "app.settings",
         "documentation": {}
     },
@@ -651,7 +659,7 @@
         "kind": 5,
         "importPath": "app.settings",
         "description": "app.settings",
-        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    #translate\n    'modeltranslation',\n    #default\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "peekOfCode": "ALLOWED_HOSTS = ['*']\n# Application definition\nINSTALLED_APPS = [\n    #translate\n    'modeltranslation',\n    #default\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
         "detail": "app.settings",
         "documentation": {}
     },
@@ -696,7 +704,7 @@
         "kind": 5,
         "importPath": "app.settings",
         "description": "app.settings",
-        "peekOfCode": "WSGI_APPLICATION = 'app.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "peekOfCode": "WSGI_APPLICATION = 'app.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n        # 'ENGINE': 'django.db.backends.mysql',\n        # 'NAME': 'kit',\n        # 'USER': 'kit',",
         "detail": "app.settings",
         "documentation": {}
     },
@@ -705,7 +713,7 @@
         "kind": 5,
         "importPath": "app.settings",
         "description": "app.settings",
-        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n        # 'ENGINE': 'django.db.backends.mysql',\n        # 'NAME': 'kit',\n        # 'USER': 'kit',\n        # 'PASSWORD': '8gPpL0ENQxNQ',\n        # 'HOST': 'localhost',   # Or an IP Address that your DB is hosted on\n        # 'PORT': '3306',",
         "detail": "app.settings",
         "documentation": {}
     },
@@ -723,7 +731,7 @@
         "kind": 5,
         "importPath": "app.settings",
         "description": "app.settings",
-        "peekOfCode": "LANGUAGE_CODE = 'kk'\nTIME_ZONE = 'Asia/Almaty'\nUSE_I18N = True\nUSE_TZ = True\nMODELTRANSLATION_DEFAULT_LANGUAGE = 'kk'\nMODELTRANSLATION_PREPOPULATE_LANGUAGE = 'ru'\nLANGUAGES = [\n    ('ru', _('Russia')),\n    ('kk', _('Kazakh')),\n]",
+        "peekOfCode": "LANGUAGE_CODE = 'ru'\nTIME_ZONE = 'Asia/Almaty'\nUSE_I18N = True\nUSE_TZ = True\nMODELTRANSLATION_DEFAULT_LANGUAGE = 'ru'\nMODELTRANSLATION_PREPOPULATE_LANGUAGE = 'ru'\nLANGUAGES = [\n    ('ru', _('Russia')),\n    ('kk', _('Kazakh')),\n]",
         "detail": "app.settings",
         "documentation": {}
     },
@@ -732,7 +740,7 @@
         "kind": 5,
         "importPath": "app.settings",
         "description": "app.settings",
-        "peekOfCode": "TIME_ZONE = 'Asia/Almaty'\nUSE_I18N = True\nUSE_TZ = True\nMODELTRANSLATION_DEFAULT_LANGUAGE = 'kk'\nMODELTRANSLATION_PREPOPULATE_LANGUAGE = 'ru'\nLANGUAGES = [\n    ('ru', _('Russia')),\n    ('kk', _('Kazakh')),\n]\n# Static files (CSS, JavaScript, Images)",
+        "peekOfCode": "TIME_ZONE = 'Asia/Almaty'\nUSE_I18N = True\nUSE_TZ = True\nMODELTRANSLATION_DEFAULT_LANGUAGE = 'ru'\nMODELTRANSLATION_PREPOPULATE_LANGUAGE = 'ru'\nLANGUAGES = [\n    ('ru', _('Russia')),\n    ('kk', _('Kazakh')),\n]\n# Static files (CSS, JavaScript, Images)",
         "detail": "app.settings",
         "documentation": {}
     },
@@ -741,7 +749,7 @@
         "kind": 5,
         "importPath": "app.settings",
         "description": "app.settings",
-        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\nMODELTRANSLATION_DEFAULT_LANGUAGE = 'kk'\nMODELTRANSLATION_PREPOPULATE_LANGUAGE = 'ru'\nLANGUAGES = [\n    ('ru', _('Russia')),\n    ('kk', _('Kazakh')),\n]\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\nMODELTRANSLATION_DEFAULT_LANGUAGE = 'ru'\nMODELTRANSLATION_PREPOPULATE_LANGUAGE = 'ru'\nLANGUAGES = [\n    ('ru', _('Russia')),\n    ('kk', _('Kazakh')),\n]\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/",
         "detail": "app.settings",
         "documentation": {}
     },
@@ -750,7 +758,7 @@
         "kind": 5,
         "importPath": "app.settings",
         "description": "app.settings",
-        "peekOfCode": "USE_TZ = True\nMODELTRANSLATION_DEFAULT_LANGUAGE = 'kk'\nMODELTRANSLATION_PREPOPULATE_LANGUAGE = 'ru'\nLANGUAGES = [\n    ('ru', _('Russia')),\n    ('kk', _('Kazakh')),\n]\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'",
+        "peekOfCode": "USE_TZ = True\nMODELTRANSLATION_DEFAULT_LANGUAGE = 'ru'\nMODELTRANSLATION_PREPOPULATE_LANGUAGE = 'ru'\nLANGUAGES = [\n    ('ru', _('Russia')),\n    ('kk', _('Kazakh')),\n]\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'",
         "detail": "app.settings",
         "documentation": {}
     },
@@ -759,7 +767,7 @@
         "kind": 5,
         "importPath": "app.settings",
         "description": "app.settings",
-        "peekOfCode": "MODELTRANSLATION_DEFAULT_LANGUAGE = 'kk'\nMODELTRANSLATION_PREPOPULATE_LANGUAGE = 'ru'\nLANGUAGES = [\n    ('ru', _('Russia')),\n    ('kk', _('Kazakh')),\n]\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_DIR = os.path.join(BASE_DIR, 'static')",
+        "peekOfCode": "MODELTRANSLATION_DEFAULT_LANGUAGE = 'ru'\nMODELTRANSLATION_PREPOPULATE_LANGUAGE = 'ru'\nLANGUAGES = [\n    ('ru', _('Russia')),\n    ('kk', _('Kazakh')),\n]\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_DIR = os.path.join(BASE_DIR, 'static')",
         "detail": "app.settings",
         "documentation": {}
     },
@@ -768,7 +776,7 @@
         "kind": 5,
         "importPath": "app.settings",
         "description": "app.settings",
-        "peekOfCode": "MODELTRANSLATION_PREPOPULATE_LANGUAGE = 'ru'\nLANGUAGES = [\n    ('ru', _('Russia')),\n    ('kk', _('Kazakh')),\n]\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_DIR = os.path.join(BASE_DIR, 'static')\nSTATICFILES_DIRS = [STATIC_DIR]",
+        "peekOfCode": "MODELTRANSLATION_PREPOPULATE_LANGUAGE = 'ru'\nLANGUAGES = [\n    ('ru', _('Russia')),\n    ('kk', _('Kazakh')),\n]\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_DIR = os.path.join(BASE_DIR, 'static')\n\"\"\" STATICFILES_DIRS = [STATIC_DIR] \"\"\"",
         "detail": "app.settings",
         "documentation": {}
     },
@@ -777,7 +785,7 @@
         "kind": 5,
         "importPath": "app.settings",
         "description": "app.settings",
-        "peekOfCode": "LANGUAGES = [\n    ('ru', _('Russia')),\n    ('kk', _('Kazakh')),\n]\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_DIR = os.path.join(BASE_DIR, 'static')\nSTATICFILES_DIRS = [STATIC_DIR]\n\"\"\" STATIC_ROOT = os.path.join(BASE_DIR, 'static') \"\"\"",
+        "peekOfCode": "LANGUAGES = [\n    ('ru', _('Russia')),\n    ('kk', _('Kazakh')),\n]\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_DIR = os.path.join(BASE_DIR, 'static')\n\"\"\" STATICFILES_DIRS = [STATIC_DIR] \"\"\"\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static')",
         "detail": "app.settings",
         "documentation": {}
     },
@@ -786,7 +794,7 @@
         "kind": 5,
         "importPath": "app.settings",
         "description": "app.settings",
-        "peekOfCode": "STATIC_URL = 'static/'\nSTATIC_DIR = os.path.join(BASE_DIR, 'static')\nSTATICFILES_DIRS = [STATIC_DIR]\n\"\"\" STATIC_ROOT = os.path.join(BASE_DIR, 'static') \"\"\"\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n#CKEDITOR",
+        "peekOfCode": "STATIC_URL = 'static/'\nSTATIC_DIR = os.path.join(BASE_DIR, 'static')\n\"\"\" STATICFILES_DIRS = [STATIC_DIR] \"\"\"\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static')\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n#CKEDITOR",
         "detail": "app.settings",
         "documentation": {}
     },
@@ -795,16 +803,16 @@
         "kind": 5,
         "importPath": "app.settings",
         "description": "app.settings",
-        "peekOfCode": "STATIC_DIR = os.path.join(BASE_DIR, 'static')\nSTATICFILES_DIRS = [STATIC_DIR]\n\"\"\" STATIC_ROOT = os.path.join(BASE_DIR, 'static') \"\"\"\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n#CKEDITOR\nCKEDITOR_UPLOAD_PATH = 'upload/news_content/'",
+        "peekOfCode": "STATIC_DIR = os.path.join(BASE_DIR, 'static')\n\"\"\" STATICFILES_DIRS = [STATIC_DIR] \"\"\"\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static')\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n#CKEDITOR\nCKEDITOR_UPLOAD_PATH = 'upload/news_content/'",
         "detail": "app.settings",
         "documentation": {}
     },
     {
-        "label": "STATICFILES_DIRS",
+        "label": "STATIC_ROOT",
         "kind": 5,
         "importPath": "app.settings",
         "description": "app.settings",
-        "peekOfCode": "STATICFILES_DIRS = [STATIC_DIR]\n\"\"\" STATIC_ROOT = os.path.join(BASE_DIR, 'static') \"\"\"\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n#CKEDITOR\nCKEDITOR_UPLOAD_PATH = 'upload/news_content/'\nCKEDITOR_CONFIGS = {",
+        "peekOfCode": "STATIC_ROOT = os.path.join(BASE_DIR, 'static')\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n#CKEDITOR\nCKEDITOR_UPLOAD_PATH = 'upload/news_content/'\nCKEDITOR_CONFIGS = {\n    'default': {",
         "detail": "app.settings",
         "documentation": {}
     },
@@ -858,7 +866,7 @@
         "kind": 5,
         "importPath": "app.urls",
         "description": "app.urls",
-        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('ckeditor', include('ckeditor_uploader.urls')),\n]\nurlpatterns += i18n_patterns(\n    path('i18n/', include('django.conf.urls.i18n')),\n    path('', include('main.urls')),\n    path('staff/', include('staff.urls')),\n    path('news/', include('news.urls')),\n    prefix_default_language=False,",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('ckeditor', include('ckeditor_uploader.urls')),\n]\nurlpatterns += i18n_patterns(\n    path('i18n/', include('django.conf.urls.i18n')),\n    path('', include('main.urls')),\n    path('staff/', include('staff.urls')),\n    path('news/', include('news.urls')),\n    path('specs/',include('specialties.urls')),",
         "detail": "app.urls",
         "documentation": {}
     },
@@ -1187,6 +1195,15 @@
         "documentation": {}
     },
     {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "specialties.urls",
+        "description": "specialties.urls",
+        "peekOfCode": "urlpatterns = [\n]",
+        "detail": "specialties.urls",
+        "documentation": {}
+    },
+    {
         "label": "Migration",
         "kind": 6,
         "importPath": "staff.migrations.0001_initial",
@@ -1272,7 +1289,16 @@
         "kind": 6,
         "importPath": "staff.admin",
         "description": "staff.admin",
-        "peekOfCode": "class CmcITAdminForm(forms.ModelForm):\n    info_ru = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[ru]')\n    info_kk = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[kk]')\n    class Meta:\n        model = CmcITModel\n        fields = '__all__'   \n\"\"\" Регистрация моделей в админке \"\"\"\n@admin.register(PositionModel)\nclass PositionAdmin(TranslationAdmin):\n    list_display = ('position_name',)",
+        "peekOfCode": "class CmcITAdminForm(forms.ModelForm):\n    info_ru = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[ru]')\n    info_kk = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[kk]')\n    class Meta:\n        model = CmcITModel\n        fields = '__all__'   \nclass CmcFIZAdminForm(forms.ModelForm):\n    info_ru = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[ru]')\n    info_kk = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[kk]')\n    class Meta:",
+        "detail": "staff.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CmcFIZAdminForm",
+        "kind": 6,
+        "importPath": "staff.admin",
+        "description": "staff.admin",
+        "peekOfCode": "class CmcFIZAdminForm(forms.ModelForm):\n    info_ru = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[ru]')\n    info_kk = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[kk]')\n    class Meta:\n        model = CmcFIZModel\n        fields = '__all__'   \n\"\"\" Регистрация моделей в админке \"\"\"\n@admin.register(PositionModel)\nclass PositionAdmin(TranslationAdmin):\n    list_display = ('position_name',)",
         "detail": "staff.admin",
         "documentation": {}
     },
@@ -1344,7 +1370,7 @@
         "kind": 6,
         "importPath": "staff.admin",
         "description": "staff.admin",
-        "peekOfCode": "class CmcITAdmin(TranslationAdmin):\n    list_display = ('fio',)\n    prepopulated_fields = {'slug':('fio',)}  \n    form = CmcITAdminForm\n@admin.register(CmcFIZModel)\nclass CmcFIZAdmin(TranslationAdmin):\n    list_display = ('fio',)\n    prepopulated_fields = {'slug':('fio',)}",
+        "peekOfCode": "class CmcITAdmin(TranslationAdmin):\n    list_display = ('fio',)\n    prepopulated_fields = {'slug':('fio',)}  \n    form = CmcITAdminForm\n@admin.register(CmcFIZModel)\nclass CmcFIZAdmin(TranslationAdmin):\n    list_display = ('fio',)\n    prepopulated_fields = {'slug':('fio',)}\n    form = CmcFIZAdminForm",
         "detail": "staff.admin",
         "documentation": {}
     },
@@ -1353,7 +1379,7 @@
         "kind": 6,
         "importPath": "staff.admin",
         "description": "staff.admin",
-        "peekOfCode": "class CmcFIZAdmin(TranslationAdmin):\n    list_display = ('fio',)\n    prepopulated_fields = {'slug':('fio',)}",
+        "peekOfCode": "class CmcFIZAdmin(TranslationAdmin):\n    list_display = ('fio',)\n    prepopulated_fields = {'slug':('fio',)}\n    form = CmcFIZAdminForm",
         "detail": "staff.admin",
         "documentation": {}
     },
