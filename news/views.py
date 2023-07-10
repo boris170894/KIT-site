@@ -13,5 +13,5 @@ class NewsView(View):
 class NewsListView(View):
 
     def get(self, request):
-        news_list = NewsModel.objects.filter(news_is_published = True)
+        news_list = NewsModel.objects.filter(news_is_published = True).order_by('-news_create_date')
         return render(request, 'news/news_list.html', {'news_list': news_list})

@@ -24,11 +24,11 @@
    </div>
 
     <div class="container">
-         {% comment %} <div class="pre__title">
+        <div class="pre__title">
             <h2 class="title">
                 Новости
             </h2>
-        </div>  {% endcomment %}
+        </div> 
 
         <div class="page__news">
             <div class="page__news__left">
@@ -69,21 +69,14 @@
     </div>
 
     <div class="container">
-{% comment %}  
+
         <div class="pre__title">
             <h2 class="title">
                 О нас
             </h2>
-        </div>  {% endcomment %}
+        </div>
 
     </div>
-    {% comment %} 
-        SLIDER  
-
-        -  количество лабораторий
-        -  оснащение кабинетов
-    {% endcomment %}
-
     
         <div class="page__about">
             <div class="page__about__slide">
@@ -117,22 +110,35 @@
     
     <div class="container">
 
-         {% comment %} <div class="pre__title">
+        <div class="pre__title">
             <h2 class="title">
                 Наши достижения
             </h2>
-        </div>  {% endcomment %}
+        </div> 
 
+        <div class="page__parthers">
+            {% for achivment in achivments %}
+                <div class="parthner">
+                    <img src="{{ achivment.news_img.url }}" alt="{{ achivment.news_img }}">
+                    <a href="{{achivment.get_absolute_url}}">{{achivment.news_title}}</a>
+                    <a href="{{achivment.get_absolute_url}}">Читать</a>
+                </div>
+            {% endfor %}
+        </div>
+
+        <a href="{% url 'news_list' %}" class="read__more">
+            Смотреть все
+        </a>
 
     </div>
 
     <div class="container">
 
-         {% comment %} <div class="pre__title">
+        <div class="pre__title">
             <h2 class="title">
                 Наши партнёры
             </h2>
-        </div>  {% endcomment %}
+        </div> 
 
         <div class="page__achievements">
             <span class="material-symbols-outlined page__archivements__left">
@@ -182,6 +188,7 @@
 
 </div>
 
+<script src="{% static 'main/js/intro-slider.js' %}"></script>
 <script src="{% static 'main/js/parthners-slider.js' %}"></script>
 <script src="{% static 'main/js/slider.js' %}"></script>
 {% endblock content %}
