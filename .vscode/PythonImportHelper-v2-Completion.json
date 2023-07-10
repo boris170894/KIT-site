@@ -1,0 +1,1575 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "gettext_lazy",
+        "importPath": "django.utils.translation",
+        "description": "django.utils.translation",
+        "isExtraImport": true,
+        "detail": "django.utils.translation",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "i18n_patterns",
+        "importPath": "django.conf.urls.i18n",
+        "description": "django.conf.urls.i18n",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.i18n",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "TranslationAdmin",
+        "importPath": "modeltranslation.admin",
+        "description": "modeltranslation.admin",
+        "isExtraImport": true,
+        "detail": "modeltranslation.admin",
+        "documentation": {}
+    },
+    {
+        "label": "TranslationAdmin",
+        "importPath": "modeltranslation.admin",
+        "description": "modeltranslation.admin",
+        "isExtraImport": true,
+        "detail": "modeltranslation.admin",
+        "documentation": {}
+    },
+    {
+        "label": "TranslationAdmin",
+        "importPath": "modeltranslation.admin",
+        "description": "modeltranslation.admin",
+        "isExtraImport": true,
+        "detail": "modeltranslation.admin",
+        "documentation": {}
+    },
+    {
+        "label": "TranslationAdmin",
+        "importPath": "modeltranslation.admin",
+        "description": "modeltranslation.admin",
+        "isExtraImport": true,
+        "detail": "modeltranslation.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "importPath": "modeltranslation.translator",
+        "description": "modeltranslation.translator",
+        "isExtraImport": true,
+        "detail": "modeltranslation.translator",
+        "documentation": {}
+    },
+    {
+        "label": "TranslationOptions",
+        "importPath": "modeltranslation.translator",
+        "description": "modeltranslation.translator",
+        "isExtraImport": true,
+        "detail": "modeltranslation.translator",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "importPath": "modeltranslation.translator",
+        "description": "modeltranslation.translator",
+        "isExtraImport": true,
+        "detail": "modeltranslation.translator",
+        "documentation": {}
+    },
+    {
+        "label": "TranslationOptions",
+        "importPath": "modeltranslation.translator",
+        "description": "modeltranslation.translator",
+        "isExtraImport": true,
+        "detail": "modeltranslation.translator",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "importPath": "modeltranslation.translator",
+        "description": "modeltranslation.translator",
+        "isExtraImport": true,
+        "detail": "modeltranslation.translator",
+        "documentation": {}
+    },
+    {
+        "label": "TranslationOptions",
+        "importPath": "modeltranslation.translator",
+        "description": "modeltranslation.translator",
+        "isExtraImport": true,
+        "detail": "modeltranslation.translator",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "importPath": "modeltranslation.translator",
+        "description": "modeltranslation.translator",
+        "isExtraImport": true,
+        "detail": "modeltranslation.translator",
+        "documentation": {}
+    },
+    {
+        "label": "TranslationOptions",
+        "importPath": "modeltranslation.translator",
+        "description": "modeltranslation.translator",
+        "isExtraImport": true,
+        "detail": "modeltranslation.translator",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "NewsModel",
+        "importPath": "news.models",
+        "description": "news.models",
+        "isExtraImport": true,
+        "detail": "news.models",
+        "documentation": {}
+    },
+    {
+        "label": "SpecInfoModel",
+        "importPath": "specialties.models",
+        "description": "specialties.models",
+        "isExtraImport": true,
+        "detail": "specialties.models",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "CKEditorUploadingWidget",
+        "importPath": "ckeditor_uploader.widgets",
+        "description": "ckeditor_uploader.widgets",
+        "isExtraImport": true,
+        "detail": "ckeditor_uploader.widgets",
+        "documentation": {}
+    },
+    {
+        "label": "CKEditorUploadingWidget",
+        "importPath": "ckeditor_uploader.widgets",
+        "description": "ckeditor_uploader.widgets",
+        "isExtraImport": true,
+        "detail": "ckeditor_uploader.widgets",
+        "documentation": {}
+    },
+    {
+        "label": "CKEditorUploadingWidget",
+        "importPath": "ckeditor_uploader.widgets",
+        "description": "ckeditor_uploader.widgets",
+        "isExtraImport": true,
+        "detail": "ckeditor_uploader.widgets",
+        "documentation": {}
+    },
+    {
+        "label": "View",
+        "importPath": "django.views.generic.base",
+        "description": "django.views.generic.base",
+        "isExtraImport": true,
+        "detail": "django.views.generic.base",
+        "documentation": {}
+    },
+    {
+        "label": "View",
+        "importPath": "django.views.generic.base",
+        "description": "django.views.generic.base",
+        "isExtraImport": true,
+        "detail": "django.views.generic.base",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "app.asgi",
+        "description": "app.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "app.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "app.settings",
+        "description": "app.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-lgrf$8=_@3zf-&j-@v)ma%aw&2sz%ll)mov(&#5yp1s^-a7_0u'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['*']\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "app.settings",
+        "description": "app.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-lgrf$8=_@3zf-&j-@v)ma%aw&2sz%ll)mov(&#5yp1s^-a7_0u'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['*']\n# Application definition\nINSTALLED_APPS = [\n    #translate\n    'modeltranslation',\n    #default\n    'django.contrib.admin',",
+        "detail": "app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "app.settings",
+        "description": "app.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = ['*']\n# Application definition\nINSTALLED_APPS = [\n    #translate\n    'modeltranslation',\n    #default\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',",
+        "detail": "app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "app.settings",
+        "description": "app.settings",
+        "peekOfCode": "ALLOWED_HOSTS = ['*']\n# Application definition\nINSTALLED_APPS = [\n    #translate\n    'modeltranslation',\n    #default\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "app.settings",
+        "description": "app.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    #translate\n    'modeltranslation',\n    #default\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "app.settings",
+        "description": "app.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.locale.LocaleMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]",
+        "detail": "app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "app.settings",
+        "description": "app.settings",
+        "peekOfCode": "ROOT_URLCONF = 'app.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "app.settings",
+        "description": "app.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "app.settings",
+        "description": "app.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'app.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n        # 'ENGINE': 'django.db.backends.mysql',\n        # 'NAME': 'kit',\n        # 'USER': 'kit',",
+        "detail": "app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "app.settings",
+        "description": "app.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n        # 'ENGINE': 'django.db.backends.mysql',\n        # 'NAME': 'kit',\n        # 'USER': 'kit',\n        # 'PASSWORD': '8gPpL0ENQxNQ',\n        # 'HOST': 'localhost',   # Or an IP Address that your DB is hosted on\n        # 'PORT': '3306',",
+        "detail": "app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "app.settings",
+        "description": "app.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "app.settings",
+        "description": "app.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'ru'\nTIME_ZONE = 'Asia/Almaty'\nUSE_I18N = True\nUSE_TZ = True\nMODELTRANSLATION_DEFAULT_LANGUAGE = 'ru'\nMODELTRANSLATION_PREPOPULATE_LANGUAGE = 'ru'\nLANGUAGES = [\n    ('ru', _('Russia')),\n    ('kk', _('Kazakh')),\n]",
+        "detail": "app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "app.settings",
+        "description": "app.settings",
+        "peekOfCode": "TIME_ZONE = 'Asia/Almaty'\nUSE_I18N = True\nUSE_TZ = True\nMODELTRANSLATION_DEFAULT_LANGUAGE = 'ru'\nMODELTRANSLATION_PREPOPULATE_LANGUAGE = 'ru'\nLANGUAGES = [\n    ('ru', _('Russia')),\n    ('kk', _('Kazakh')),\n]\n# Static files (CSS, JavaScript, Images)",
+        "detail": "app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "app.settings",
+        "description": "app.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\nMODELTRANSLATION_DEFAULT_LANGUAGE = 'ru'\nMODELTRANSLATION_PREPOPULATE_LANGUAGE = 'ru'\nLANGUAGES = [\n    ('ru', _('Russia')),\n    ('kk', _('Kazakh')),\n]\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/",
+        "detail": "app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "app.settings",
+        "description": "app.settings",
+        "peekOfCode": "USE_TZ = True\nMODELTRANSLATION_DEFAULT_LANGUAGE = 'ru'\nMODELTRANSLATION_PREPOPULATE_LANGUAGE = 'ru'\nLANGUAGES = [\n    ('ru', _('Russia')),\n    ('kk', _('Kazakh')),\n]\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'",
+        "detail": "app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MODELTRANSLATION_DEFAULT_LANGUAGE",
+        "kind": 5,
+        "importPath": "app.settings",
+        "description": "app.settings",
+        "peekOfCode": "MODELTRANSLATION_DEFAULT_LANGUAGE = 'ru'\nMODELTRANSLATION_PREPOPULATE_LANGUAGE = 'ru'\nLANGUAGES = [\n    ('ru', _('Russia')),\n    ('kk', _('Kazakh')),\n]\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_DIR = os.path.join(BASE_DIR, 'static')",
+        "detail": "app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MODELTRANSLATION_PREPOPULATE_LANGUAGE",
+        "kind": 5,
+        "importPath": "app.settings",
+        "description": "app.settings",
+        "peekOfCode": "MODELTRANSLATION_PREPOPULATE_LANGUAGE = 'ru'\nLANGUAGES = [\n    ('ru', _('Russia')),\n    ('kk', _('Kazakh')),\n]\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_DIR = os.path.join(BASE_DIR, 'static')\n\"\"\" STATICFILES_DIRS = [STATIC_DIR] \"\"\"",
+        "detail": "app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGES",
+        "kind": 5,
+        "importPath": "app.settings",
+        "description": "app.settings",
+        "peekOfCode": "LANGUAGES = [\n    ('ru', _('Russia')),\n    ('kk', _('Kazakh')),\n]\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_DIR = os.path.join(BASE_DIR, 'static')\n\"\"\" STATICFILES_DIRS = [STATIC_DIR] \"\"\"\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static')",
+        "detail": "app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "app.settings",
+        "description": "app.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\nSTATIC_DIR = os.path.join(BASE_DIR, 'static')\n\"\"\" STATICFILES_DIRS = [STATIC_DIR] \"\"\"\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static')\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n#CKEDITOR",
+        "detail": "app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_DIR",
+        "kind": 5,
+        "importPath": "app.settings",
+        "description": "app.settings",
+        "peekOfCode": "STATIC_DIR = os.path.join(BASE_DIR, 'static')\n\"\"\" STATICFILES_DIRS = [STATIC_DIR] \"\"\"\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static')\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n#CKEDITOR\nCKEDITOR_UPLOAD_PATH = 'upload/news_content/'",
+        "detail": "app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "app.settings",
+        "description": "app.settings",
+        "peekOfCode": "STATIC_ROOT = os.path.join(BASE_DIR, 'static')\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n#CKEDITOR\nCKEDITOR_UPLOAD_PATH = 'upload/news_content/'\nCKEDITOR_CONFIGS = {\n    'default': {",
+        "detail": "app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "app.settings",
+        "description": "app.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n#CKEDITOR\nCKEDITOR_UPLOAD_PATH = 'upload/news_content/'\nCKEDITOR_CONFIGS = {\n    'default': {\n        'toolbar': 'full',",
+        "detail": "app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "app.settings",
+        "description": "app.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n#CKEDITOR\nCKEDITOR_UPLOAD_PATH = 'upload/news_content/'\nCKEDITOR_CONFIGS = {\n    'default': {\n        'toolbar': 'full',\n    },",
+        "detail": "app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "app.settings",
+        "description": "app.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n#CKEDITOR\nCKEDITOR_UPLOAD_PATH = 'upload/news_content/'\nCKEDITOR_CONFIGS = {\n    'default': {\n        'toolbar': 'full',\n    },\n}",
+        "detail": "app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CKEDITOR_UPLOAD_PATH",
+        "kind": 5,
+        "importPath": "app.settings",
+        "description": "app.settings",
+        "peekOfCode": "CKEDITOR_UPLOAD_PATH = 'upload/news_content/'\nCKEDITOR_CONFIGS = {\n    'default': {\n        'toolbar': 'full',\n    },\n}",
+        "detail": "app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CKEDITOR_CONFIGS",
+        "kind": 5,
+        "importPath": "app.settings",
+        "description": "app.settings",
+        "peekOfCode": "CKEDITOR_CONFIGS = {\n    'default': {\n        'toolbar': 'full',\n    },\n}",
+        "detail": "app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "app.urls",
+        "description": "app.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('ckeditor', include('ckeditor_uploader.urls')),\n]\nurlpatterns += i18n_patterns(\n    path('i18n/', include('django.conf.urls.i18n')),\n    path('', include('main.urls')),\n    path('staff/', include('staff.urls')),\n    path('news/', include('news.urls')),\n    path('specs/',include('specialties.urls')),",
+        "detail": "app.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "app.wsgi",
+        "description": "app.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "app.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "main.migrations.0001_initial",
+        "description": "main.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='CollegeContactModel',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('addr', models.CharField(max_length=300, verbose_name='Адрес')),",
+        "detail": "main.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "main.migrations.0002_collegepartnersmodel_and_more",
+        "description": "main.migrations.0002_collegepartnersmodel_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('main', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='CollegePartnersModel',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('partner_name', models.CharField(max_length=200, verbose_name='Наименование')),",
+        "detail": "main.migrations.0002_collegepartnersmodel_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "CollegeHistoryAdmin",
+        "kind": 6,
+        "importPath": "main.admin",
+        "description": "main.admin",
+        "peekOfCode": "class CollegeHistoryAdmin(TranslationAdmin):\n    list_display = ('year',)\n@admin.register(CollegeContactModel)\nclass CollegeContactAdmin(TranslationAdmin):\n    list_display = ('addr',)\n@admin.register(CollegePartnersModel)\nclass CollegePartnersAdmin(TranslationAdmin):\n    list_display = ('partner_name',)",
+        "detail": "main.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CollegeContactAdmin",
+        "kind": 6,
+        "importPath": "main.admin",
+        "description": "main.admin",
+        "peekOfCode": "class CollegeContactAdmin(TranslationAdmin):\n    list_display = ('addr',)\n@admin.register(CollegePartnersModel)\nclass CollegePartnersAdmin(TranslationAdmin):\n    list_display = ('partner_name',)",
+        "detail": "main.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CollegePartnersAdmin",
+        "kind": 6,
+        "importPath": "main.admin",
+        "description": "main.admin",
+        "peekOfCode": "class CollegePartnersAdmin(TranslationAdmin):\n    list_display = ('partner_name',)",
+        "detail": "main.admin",
+        "documentation": {}
+    },
+    {
+        "label": "MainConfig",
+        "kind": 6,
+        "importPath": "main.apps",
+        "description": "main.apps",
+        "peekOfCode": "class MainConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'main'\n    verbose_name = 'Основное'",
+        "detail": "main.apps",
+        "documentation": {}
+    },
+    {
+        "label": "CollegeHistoryModel",
+        "kind": 6,
+        "importPath": "main.models",
+        "description": "main.models",
+        "peekOfCode": "class CollegeHistoryModel(models.Model):\n    year = models.DateField(verbose_name='Дата события')\n    info = models.TextField(verbose_name='Описание')\n    def __str__(self):\n        return self.year\n    class Meta:\n        verbose_name = 'История колледжа'\n        verbose_name_plural = 'История колледжа'\n\"\"\" Контакты \"\"\"\nclass CollegeContactModel(models.Model):",
+        "detail": "main.models",
+        "documentation": {}
+    },
+    {
+        "label": "CollegeContactModel",
+        "kind": 6,
+        "importPath": "main.models",
+        "description": "main.models",
+        "peekOfCode": "class CollegeContactModel(models.Model):\n    addr = models.CharField(verbose_name='Адрес', max_length=300)\n    e_mail = models.CharField(verbose_name='e-mail', max_length=20)\n    tel = models.CharField(verbose_name='Телефон', max_length=20)\n    priem_com = models.CharField(verbose_name='Приёмная комиссия', max_length=20)\n    wats = models.CharField(verbose_name='Watsapp', max_length=20)\n    def __str__(self):\n        return(\"Информация\")\n    class Meta:\n        verbose_name = 'Контакты'",
+        "detail": "main.models",
+        "documentation": {}
+    },
+    {
+        "label": "CollegePartnersModel",
+        "kind": 6,
+        "importPath": "main.models",
+        "description": "main.models",
+        "peekOfCode": "class CollegePartnersModel(models.Model):\n    partner_name = models.CharField(verbose_name='Наименование', max_length=200)\n    partner_logo = models.ImageField(verbose_name='Лого', upload_to = 'upload/partners', blank=True)\n    partner_url = models.CharField(verbose_name='Ссылка на сайт', max_length=100, blank=True)\n    def __str__(self):\n        return self.partner_name\n    class Meta:\n        verbose_name = 'Партнёры колледжа'\n        verbose_name_plural = 'Партнёры колледжа'",
+        "detail": "main.models",
+        "documentation": {}
+    },
+    {
+        "label": "CollegeHistoryTransOptions",
+        "kind": 6,
+        "importPath": "main.translation",
+        "description": "main.translation",
+        "peekOfCode": "class CollegeHistoryTransOptions(TranslationOptions):\n    fields = ('info',)\n@register(CollegeContactModel)\nclass CollegeContactTransOptions(TranslationOptions):\n    fields = ('addr',)\n@register(CollegePartnersModel)\nclass CollegePartnersTransOptions(TranslationOptions):\n    fields = ('partner_name',)",
+        "detail": "main.translation",
+        "documentation": {}
+    },
+    {
+        "label": "CollegeContactTransOptions",
+        "kind": 6,
+        "importPath": "main.translation",
+        "description": "main.translation",
+        "peekOfCode": "class CollegeContactTransOptions(TranslationOptions):\n    fields = ('addr',)\n@register(CollegePartnersModel)\nclass CollegePartnersTransOptions(TranslationOptions):\n    fields = ('partner_name',)",
+        "detail": "main.translation",
+        "documentation": {}
+    },
+    {
+        "label": "CollegePartnersTransOptions",
+        "kind": 6,
+        "importPath": "main.translation",
+        "description": "main.translation",
+        "peekOfCode": "class CollegePartnersTransOptions(TranslationOptions):\n    fields = ('partner_name',)",
+        "detail": "main.translation",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "main.urls",
+        "description": "main.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.index, name ='index'),\n    path('apps/', views.applicants, name = 'apps'),\n]",
+        "detail": "main.urls",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "main.views",
+        "description": "main.views",
+        "peekOfCode": "def index(request):\n    public__news_count = NewsModel.objects.filter(news_is_published = True).count()\n    last_news = NewsModel.objects.filter(news_is_published = True).order_by('news_create_date')[public__news_count-4:public__news_count-1]\n    achivments = NewsModel.objects.filter(news_is_published = True, news_is_achivment = True).order_by('-news_create_date')[:3]\n    contacts = CollegeContactModel.objects.all()\n    partners = CollegePartnersModel.objects.all()\n    last_one_news = NewsModel.objects.filter(news_is_published = True).order_by('news_create_date')[public__news_count-1]\n    context = {\n        'last_news': last_news,\n        'contacts' : contacts,",
+        "detail": "main.views",
+        "documentation": {}
+    },
+    {
+        "label": "applicants",
+        "kind": 2,
+        "importPath": "main.views",
+        "description": "main.views",
+        "peekOfCode": "def applicants(request):\n    specs = SpecInfoModel.objects.all()\n    contacts = CollegeContactModel.objects.all()\n    context = {\n        'specs' : specs,\n        'contacts' : contacts,\n    }\n    return render(request, 'main/pages/applicants.html', context)",
+        "detail": "main.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "news.migrations.0001_initial",
+        "description": "news.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='CategoryModel',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('category_name', models.CharField(max_length=100, verbose_name='Наименование категории')),",
+        "detail": "news.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "news.migrations.0002_categorymodel_category_name_kk_and_more",
+        "description": "news.migrations.0002_categorymodel_category_name_kk_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('news', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='categorymodel',\n            name='category_name_kk',\n            field=models.CharField(max_length=100, null=True, verbose_name='Наименование категории'),\n        ),",
+        "detail": "news.migrations.0002_categorymodel_category_name_kk_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryAdmin",
+        "kind": 6,
+        "importPath": "news.admin",
+        "description": "news.admin",
+        "peekOfCode": "class CategoryAdmin(TranslationAdmin):\n    list_display = ('category_name_ru',)\nclass NewsAdminForm(forms.ModelForm):\n    news_content_ru = forms.CharField(widget=CKEditorUploadingWidget(), label='Контент_[ru]')\n    news_content_kk = forms.CharField(widget=CKEditorUploadingWidget(), label='Контент_[kk]')\n    class Meta:\n        model = NewsModel\n        fields = '__all__'\n@admin.register(NewsModel)\nclass NewsAdmin(TranslationAdmin):",
+        "detail": "news.admin",
+        "documentation": {}
+    },
+    {
+        "label": "NewsAdminForm",
+        "kind": 6,
+        "importPath": "news.admin",
+        "description": "news.admin",
+        "peekOfCode": "class NewsAdminForm(forms.ModelForm):\n    news_content_ru = forms.CharField(widget=CKEditorUploadingWidget(), label='Контент_[ru]')\n    news_content_kk = forms.CharField(widget=CKEditorUploadingWidget(), label='Контент_[kk]')\n    class Meta:\n        model = NewsModel\n        fields = '__all__'\n@admin.register(NewsModel)\nclass NewsAdmin(TranslationAdmin):\n    prepopulated_fields = {\"slug\":(\"news_title\",)}\n    form = NewsAdminForm",
+        "detail": "news.admin",
+        "documentation": {}
+    },
+    {
+        "label": "NewsAdmin",
+        "kind": 6,
+        "importPath": "news.admin",
+        "description": "news.admin",
+        "peekOfCode": "class NewsAdmin(TranslationAdmin):\n    prepopulated_fields = {\"slug\":(\"news_title\",)}\n    form = NewsAdminForm\n    list_per_page = 10\n    list_filter = ('news_category', 'news_is_published')\n    list_display = (\n        \"news_title\",\n        \"news_category\",\n        \"news_create_date\",\n        \"news_update_date\",",
+        "detail": "news.admin",
+        "documentation": {}
+    },
+    {
+        "label": "NewsConfig",
+        "kind": 6,
+        "importPath": "news.apps",
+        "description": "news.apps",
+        "peekOfCode": "class NewsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'news'\n    verbose_name = 'Новости'",
+        "detail": "news.apps",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryModel",
+        "kind": 6,
+        "importPath": "news.models",
+        "description": "news.models",
+        "peekOfCode": "class CategoryModel(models.Model):\n    category_name = models.CharField(verbose_name='Наименование категории', max_length=100)\n    def __str__(self):\n        return self.category_name\n    class Meta:\n        verbose_name = 'Категории'\n        verbose_name_plural = 'Категории'\n\"\"\" Модель новостей \"\"\"\nclass NewsModel(models.Model):\n    news_title = models.CharField(verbose_name='Заголовок', max_length=150)",
+        "detail": "news.models",
+        "documentation": {}
+    },
+    {
+        "label": "NewsModel",
+        "kind": 6,
+        "importPath": "news.models",
+        "description": "news.models",
+        "peekOfCode": "class NewsModel(models.Model):\n    news_title = models.CharField(verbose_name='Заголовок', max_length=150)\n    news_img = models.ImageField(verbose_name='Фото', upload_to = 'upload/news/%Y/%m/%d', blank=True)\n    news_content = models.TextField(verbose_name='Контент')\n    news_category = models.ForeignKey('CategoryModel', on_delete=models.PROTECT, verbose_name='Категория')\n    news_is_published = models.BooleanField(verbose_name='Опубликовать', default=False)\n    news_is_achivment = models.BooleanField(verbose_name='Достижение', default=False)\n    news_create_date = models.DateTimeField(auto_now_add=True)\n    news_update_date = models.DateTimeField(auto_now=True)\n    slug = models.SlugField(unique=True, max_length=100, verbose_name='URL', db_index=True)",
+        "detail": "news.models",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryTransOptions",
+        "kind": 6,
+        "importPath": "news.translation",
+        "description": "news.translation",
+        "peekOfCode": "class CategoryTransOptions(TranslationOptions):\n    fields = ('category_name',)\n@register(NewsModel)\nclass NewsTransOptions(TranslationOptions):\n    fields = (\n        'news_title',\n        'news_content',\n    )",
+        "detail": "news.translation",
+        "documentation": {}
+    },
+    {
+        "label": "NewsTransOptions",
+        "kind": 6,
+        "importPath": "news.translation",
+        "description": "news.translation",
+        "peekOfCode": "class NewsTransOptions(TranslationOptions):\n    fields = (\n        'news_title',\n        'news_content',\n    )",
+        "detail": "news.translation",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "news.urls",
+        "description": "news.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"<slug:slug>/\", views.NewsView.as_view(), name = 'news_view'),\n    path(\"\", views.NewsListView.as_view(), name='news_list'),\n]",
+        "detail": "news.urls",
+        "documentation": {}
+    },
+    {
+        "label": "NewsView",
+        "kind": 6,
+        "importPath": "news.views",
+        "description": "news.views",
+        "peekOfCode": "class NewsView(View):\n    def get(self, request, slug):\n        news_view = NewsModel.objects.get(slug = slug)\n        return render(request, 'news/news.html', {'news_view':news_view})\nclass NewsListView(View):\n    def get(self, request):\n        news_list = NewsModel.objects.filter(news_is_published = True).order_by('-news_create_date')\n        return render(request, 'news/news_list.html', {'news_list': news_list})",
+        "detail": "news.views",
+        "documentation": {}
+    },
+    {
+        "label": "NewsListView",
+        "kind": 6,
+        "importPath": "news.views",
+        "description": "news.views",
+        "peekOfCode": "class NewsListView(View):\n    def get(self, request):\n        news_list = NewsModel.objects.filter(news_is_published = True).order_by('-news_create_date')\n        return render(request, 'news/news_list.html', {'news_list': news_list})",
+        "detail": "news.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "specialties.migrations.0001_initial",
+        "description": "specialties.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='SpecInfoModel',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('spec_name', models.CharField(max_length=200, verbose_name='Специальность')),",
+        "detail": "specialties.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "specialties.migrations.0002_specinfomodel_spec_info_kk_and_more",
+        "description": "specialties.migrations.0002_specinfomodel_spec_info_kk_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('specialties', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='specinfomodel',\n            name='spec_info_kk',\n            field=models.TextField(null=True, verbose_name='Описание'),\n        ),",
+        "detail": "specialties.migrations.0002_specinfomodel_spec_info_kk_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "SpecInfoForm",
+        "kind": 6,
+        "importPath": "specialties.admin",
+        "description": "specialties.admin",
+        "peekOfCode": "class SpecInfoForm(forms.ModelForm):\n    spec_info_ru = forms.CharField(widget=CKEditorUploadingWidget(), label='Описание_[ru]')\n    spec_info_kk = forms.CharField(widget=CKEditorUploadingWidget(), label='Описание_[kk]')\n    class Meta:\n        model = SpecInfoModel\n        fields = '__all__'\n@admin.register(SpecInfoModel)\nclass SpecInfoAdmin(TranslationAdmin):\n    form = SpecInfoForm\n    list_display = ('spec_name',)",
+        "detail": "specialties.admin",
+        "documentation": {}
+    },
+    {
+        "label": "SpecInfoAdmin",
+        "kind": 6,
+        "importPath": "specialties.admin",
+        "description": "specialties.admin",
+        "peekOfCode": "class SpecInfoAdmin(TranslationAdmin):\n    form = SpecInfoForm\n    list_display = ('spec_name',)",
+        "detail": "specialties.admin",
+        "documentation": {}
+    },
+    {
+        "label": "SpecialtiesConfig",
+        "kind": 6,
+        "importPath": "specialties.apps",
+        "description": "specialties.apps",
+        "peekOfCode": "class SpecialtiesConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'specialties'\n    verbose_name = 'Специальности'",
+        "detail": "specialties.apps",
+        "documentation": {}
+    },
+    {
+        "label": "SpecInfoModel",
+        "kind": 6,
+        "importPath": "specialties.models",
+        "description": "specialties.models",
+        "peekOfCode": "class SpecInfoModel(models.Model):\n    spec_name = models.CharField(verbose_name='Специальность', max_length=200)\n    spec_info = models.TextField(verbose_name='Описание')\n    spec_img = models.ImageField(verbose_name='Изображение', upload_to = 'upload/specs', blank = True)\n    def __str__(self):\n        return self.spec_name\n    class Meta:\n        verbose_name = 'Специальности'\n        verbose_name_plural = 'Специальности'",
+        "detail": "specialties.models",
+        "documentation": {}
+    },
+    {
+        "label": "SpecInfoTransOptions",
+        "kind": 6,
+        "importPath": "specialties.translation",
+        "description": "specialties.translation",
+        "peekOfCode": "class SpecInfoTransOptions(TranslationOptions):\n    fields = (\n        'spec_name',\n        'spec_info',\n    )",
+        "detail": "specialties.translation",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "specialties.urls",
+        "description": "specialties.urls",
+        "peekOfCode": "urlpatterns = [\n]",
+        "detail": "specialties.urls",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "staff.migrations.0001_initial",
+        "description": "staff.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='CyclicMCModel',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('cmc_name', models.CharField(max_length=200, verbose_name='Цикловая метод. комиссия')),",
+        "detail": "staff.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "staff.migrations.0002_cmcelmodel_cmcfizmodel_cmcitmodel_cmclangmodel_and_more",
+        "description": "staff.migrations.0002_cmcelmodel_cmcfizmodel_cmcitmodel_cmclangmodel_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('staff', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='CmcELModel',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('fio', models.CharField(max_length=100, verbose_name='ФИО')),",
+        "detail": "staff.migrations.0002_cmcelmodel_cmcfizmodel_cmcitmodel_cmclangmodel_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "DirectorAdminForm",
+        "kind": 6,
+        "importPath": "staff.admin",
+        "description": "staff.admin",
+        "peekOfCode": "class DirectorAdminForm(forms.ModelForm):\n    info_ru = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[ru]')\n    info_kk = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[kk]')\n    class Meta:\n        model = DirectorModel\n        fields = '__all__'\nclass DepDirectorAdminForm(forms.ModelForm):\n    info_ru = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[ru]')\n    info_kk = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[kk]')\n    class Meta:",
+        "detail": "staff.admin",
+        "documentation": {}
+    },
+    {
+        "label": "DepDirectorAdminForm",
+        "kind": 6,
+        "importPath": "staff.admin",
+        "description": "staff.admin",
+        "peekOfCode": "class DepDirectorAdminForm(forms.ModelForm):\n    info_ru = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[ru]')\n    info_kk = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[kk]')\n    class Meta:\n        model = DepDirectorModel\n        fields = '__all__'   \nclass DepHeadAdminForm(forms.ModelForm):\n    info_ru = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[ru]')\n    info_kk = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[kk]')\n    class Meta:",
+        "detail": "staff.admin",
+        "documentation": {}
+    },
+    {
+        "label": "DepHeadAdminForm",
+        "kind": 6,
+        "importPath": "staff.admin",
+        "description": "staff.admin",
+        "peekOfCode": "class DepHeadAdminForm(forms.ModelForm):\n    info_ru = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[ru]')\n    info_kk = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[kk]')\n    class Meta:\n        model = DepHeadModel\n        fields = '__all__'   \nclass DepHeadAdminForm(forms.ModelForm):\n    info_ru = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[ru]')\n    info_kk = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[kk]')\n    class Meta:",
+        "detail": "staff.admin",
+        "documentation": {}
+    },
+    {
+        "label": "DepHeadAdminForm",
+        "kind": 6,
+        "importPath": "staff.admin",
+        "description": "staff.admin",
+        "peekOfCode": "class DepHeadAdminForm(forms.ModelForm):\n    info_ru = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[ru]')\n    info_kk = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[kk]')\n    class Meta:\n        model = DepHeadModel\n        fields = '__all__' \nclass CmcOBAdminForm(forms.ModelForm):\n    info_ru = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[ru]')\n    info_kk = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[kk]')\n    class Meta:",
+        "detail": "staff.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CmcOBAdminForm",
+        "kind": 6,
+        "importPath": "staff.admin",
+        "description": "staff.admin",
+        "peekOfCode": "class CmcOBAdminForm(forms.ModelForm):\n    info_ru = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[ru]')\n    info_kk = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[kk]')\n    class Meta:\n        model = CmcOBModel\n        fields = '__all__'    \nclass CmcLangAdminForm(forms.ModelForm):\n    info_ru = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[ru]')\n    info_kk = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[kk]')\n    class Meta:",
+        "detail": "staff.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CmcLangAdminForm",
+        "kind": 6,
+        "importPath": "staff.admin",
+        "description": "staff.admin",
+        "peekOfCode": "class CmcLangAdminForm(forms.ModelForm):\n    info_ru = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[ru]')\n    info_kk = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[kk]')\n    class Meta:\n        model = CmcLangModel\n        fields = '__all__'   \nclass CmcELAdminForm(forms.ModelForm):\n    info_ru = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[ru]')\n    info_kk = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[kk]')\n    class Meta:",
+        "detail": "staff.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CmcELAdminForm",
+        "kind": 6,
+        "importPath": "staff.admin",
+        "description": "staff.admin",
+        "peekOfCode": "class CmcELAdminForm(forms.ModelForm):\n    info_ru = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[ru]')\n    info_kk = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[kk]')\n    class Meta:\n        model = CmcELModel\n        fields = '__all__'    \nclass CmcITAdminForm(forms.ModelForm):\n    info_ru = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[ru]')\n    info_kk = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[kk]')\n    class Meta:",
+        "detail": "staff.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CmcITAdminForm",
+        "kind": 6,
+        "importPath": "staff.admin",
+        "description": "staff.admin",
+        "peekOfCode": "class CmcITAdminForm(forms.ModelForm):\n    info_ru = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[ru]')\n    info_kk = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[kk]')\n    class Meta:\n        model = CmcITModel\n        fields = '__all__'   \nclass CmcFIZAdminForm(forms.ModelForm):\n    info_ru = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[ru]')\n    info_kk = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[kk]')\n    class Meta:",
+        "detail": "staff.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CmcFIZAdminForm",
+        "kind": 6,
+        "importPath": "staff.admin",
+        "description": "staff.admin",
+        "peekOfCode": "class CmcFIZAdminForm(forms.ModelForm):\n    info_ru = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[ru]')\n    info_kk = forms.CharField(widget=CKEditorUploadingWidget(), label='Информация_[kk]')\n    class Meta:\n        model = CmcFIZModel\n        fields = '__all__'   \n\"\"\" Регистрация моделей в админке \"\"\"\n@admin.register(PositionModel)\nclass PositionAdmin(TranslationAdmin):\n    list_display = ('position_name',)",
+        "detail": "staff.admin",
+        "documentation": {}
+    },
+    {
+        "label": "PositionAdmin",
+        "kind": 6,
+        "importPath": "staff.admin",
+        "description": "staff.admin",
+        "peekOfCode": "class PositionAdmin(TranslationAdmin):\n    list_display = ('position_name',)\n@admin.register(DirectorModel)\nclass DirectorAdmin(TranslationAdmin):\n    list_display = ('fio',)\n    prepopulated_fields = {'slug':('fio',)}\n    form = DirectorAdminForm\n@admin.register(DepDirectorModel)\nclass DepDirectorAdmin(TranslationAdmin):\n    list_display = ('fio',)",
+        "detail": "staff.admin",
+        "documentation": {}
+    },
+    {
+        "label": "DirectorAdmin",
+        "kind": 6,
+        "importPath": "staff.admin",
+        "description": "staff.admin",
+        "peekOfCode": "class DirectorAdmin(TranslationAdmin):\n    list_display = ('fio',)\n    prepopulated_fields = {'slug':('fio',)}\n    form = DirectorAdminForm\n@admin.register(DepDirectorModel)\nclass DepDirectorAdmin(TranslationAdmin):\n    list_display = ('fio',)\n    prepopulated_fields = {'slug':('fio',)}\n    form = DepDirectorAdminForm\n@admin.register(DepHeadModel)",
+        "detail": "staff.admin",
+        "documentation": {}
+    },
+    {
+        "label": "DepDirectorAdmin",
+        "kind": 6,
+        "importPath": "staff.admin",
+        "description": "staff.admin",
+        "peekOfCode": "class DepDirectorAdmin(TranslationAdmin):\n    list_display = ('fio',)\n    prepopulated_fields = {'slug':('fio',)}\n    form = DepDirectorAdminForm\n@admin.register(DepHeadModel)\nclass DepHeadAdmin(TranslationAdmin):\n    list_display = ('fio',)\n    prepopulated_fields = {'slug':('fio',)}\n    form = DepHeadAdminForm\n@admin.register(CmcOBModel)",
+        "detail": "staff.admin",
+        "documentation": {}
+    },
+    {
+        "label": "DepHeadAdmin",
+        "kind": 6,
+        "importPath": "staff.admin",
+        "description": "staff.admin",
+        "peekOfCode": "class DepHeadAdmin(TranslationAdmin):\n    list_display = ('fio',)\n    prepopulated_fields = {'slug':('fio',)}\n    form = DepHeadAdminForm\n@admin.register(CmcOBModel)\nclass CmcOBAdmin(TranslationAdmin):\n    list_display = ('fio',)\n    prepopulated_fields = {'slug':('fio',)}\n    form = CmcOBAdminForm\n@admin.register(CmcLangModel)",
+        "detail": "staff.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CmcOBAdmin",
+        "kind": 6,
+        "importPath": "staff.admin",
+        "description": "staff.admin",
+        "peekOfCode": "class CmcOBAdmin(TranslationAdmin):\n    list_display = ('fio',)\n    prepopulated_fields = {'slug':('fio',)}\n    form = CmcOBAdminForm\n@admin.register(CmcLangModel)\nclass CmcLangAdmin(TranslationAdmin):\n    list_display = ('fio',)\n    prepopulated_fields = {'slug':('fio',)}\n    form = CmcLangAdminForm\n@admin.register(CmcELModel)",
+        "detail": "staff.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CmcLangAdmin",
+        "kind": 6,
+        "importPath": "staff.admin",
+        "description": "staff.admin",
+        "peekOfCode": "class CmcLangAdmin(TranslationAdmin):\n    list_display = ('fio',)\n    prepopulated_fields = {'slug':('fio',)}\n    form = CmcLangAdminForm\n@admin.register(CmcELModel)\nclass CmcELAdmin(TranslationAdmin):\n    list_display = ('fio',)\n    prepopulated_fields = {'slug':('fio',)}\n    form = CmcELAdminForm\n@admin.register(CmcITModel)",
+        "detail": "staff.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CmcELAdmin",
+        "kind": 6,
+        "importPath": "staff.admin",
+        "description": "staff.admin",
+        "peekOfCode": "class CmcELAdmin(TranslationAdmin):\n    list_display = ('fio',)\n    prepopulated_fields = {'slug':('fio',)}\n    form = CmcELAdminForm\n@admin.register(CmcITModel)\nclass CmcITAdmin(TranslationAdmin):\n    list_display = ('fio',)\n    prepopulated_fields = {'slug':('fio',)}  \n    form = CmcITAdminForm\n@admin.register(CmcFIZModel)",
+        "detail": "staff.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CmcITAdmin",
+        "kind": 6,
+        "importPath": "staff.admin",
+        "description": "staff.admin",
+        "peekOfCode": "class CmcITAdmin(TranslationAdmin):\n    list_display = ('fio',)\n    prepopulated_fields = {'slug':('fio',)}  \n    form = CmcITAdminForm\n@admin.register(CmcFIZModel)\nclass CmcFIZAdmin(TranslationAdmin):\n    list_display = ('fio',)\n    prepopulated_fields = {'slug':('fio',)}\n    form = CmcFIZAdminForm",
+        "detail": "staff.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CmcFIZAdmin",
+        "kind": 6,
+        "importPath": "staff.admin",
+        "description": "staff.admin",
+        "peekOfCode": "class CmcFIZAdmin(TranslationAdmin):\n    list_display = ('fio',)\n    prepopulated_fields = {'slug':('fio',)}\n    form = CmcFIZAdminForm",
+        "detail": "staff.admin",
+        "documentation": {}
+    },
+    {
+        "label": "StaffConfig",
+        "kind": 6,
+        "importPath": "staff.apps",
+        "description": "staff.apps",
+        "peekOfCode": "class StaffConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'staff'\n    verbose_name = 'Персонал'",
+        "detail": "staff.apps",
+        "documentation": {}
+    },
+    {
+        "label": "PositionModel",
+        "kind": 6,
+        "importPath": "staff.models",
+        "description": "staff.models",
+        "peekOfCode": "class PositionModel(models.Model):\n    position_name = models.CharField(verbose_name='Должность', max_length=200)\n    def __str__(self):\n        return self.position_name\n    class Meta:\n        verbose_name = 'Справочник должностей'\n        verbose_name_plural = 'Справочник должностей'\nclass DirectorModel(models.Model):\n    fio = models.CharField(verbose_name='ФИО', max_length=100)\n    foto = models.ImageField(upload_to='upload/staff', verbose_name='Фото', blank=True)",
+        "detail": "staff.models",
+        "documentation": {}
+    },
+    {
+        "label": "DirectorModel",
+        "kind": 6,
+        "importPath": "staff.models",
+        "description": "staff.models",
+        "peekOfCode": "class DirectorModel(models.Model):\n    fio = models.CharField(verbose_name='ФИО', max_length=100)\n    foto = models.ImageField(upload_to='upload/staff', verbose_name='Фото', blank=True)\n    position = models.ForeignKey('PositionModel', on_delete=models.PROTECT, verbose_name='Должность')\n    info = models.TextField(verbose_name='Информация', blank=True)\n    is_working = models.BooleanField(default=False, verbose_name='Статус работы')\n    slug = models.SlugField(verbose_name='URL', max_length=100, unique=True)\n    def __str__(self):\n        return self.fio\n    class Meta:",
+        "detail": "staff.models",
+        "documentation": {}
+    },
+    {
+        "label": "DepDirectorModel",
+        "kind": 6,
+        "importPath": "staff.models",
+        "description": "staff.models",
+        "peekOfCode": "class DepDirectorModel(models.Model):\n    fio = models.CharField(verbose_name='ФИО', max_length=100)\n    foto = models.ImageField(upload_to='upload/staff', verbose_name='Фото', blank=True)\n    position = models.ForeignKey('PositionModel', on_delete=models.PROTECT, verbose_name='Должность')\n    info = models.TextField(verbose_name='Информация', blank=True)\n    is_working = models.BooleanField(default=False, verbose_name='Статус работы')\n    slug = models.SlugField(verbose_name='URL', max_length=100, unique=True)\n    def __str__(self):\n        return self.fio\n    class Meta:",
+        "detail": "staff.models",
+        "documentation": {}
+    },
+    {
+        "label": "DepHeadModel",
+        "kind": 6,
+        "importPath": "staff.models",
+        "description": "staff.models",
+        "peekOfCode": "class DepHeadModel(models.Model):\n    fio = models.CharField(verbose_name='ФИО', max_length=100)\n    foto = models.ImageField(upload_to='upload/staff', verbose_name='Фото', blank=True)\n    position = models.ForeignKey('PositionModel', on_delete=models.PROTECT, verbose_name='Должность')\n    info = models.TextField(verbose_name='Информация', blank=True)\n    is_working = models.BooleanField(default=False, verbose_name='Статус работы')\n    slug = models.SlugField(verbose_name='URL', max_length=100, unique=True)\n    def __str__(self):\n        return self.fio\n    class Meta:",
+        "detail": "staff.models",
+        "documentation": {}
+    },
+    {
+        "label": "CmcOBModel",
+        "kind": 6,
+        "importPath": "staff.models",
+        "description": "staff.models",
+        "peekOfCode": "class CmcOBModel(models.Model):\n    fio = models.CharField(verbose_name='ФИО', max_length=100)\n    foto = models.ImageField(upload_to='upload/staff', verbose_name='Фото', blank=True)\n    position = models.ForeignKey('PositionModel', on_delete=models.PROTECT, verbose_name='Должность')\n    info = models.TextField(verbose_name='Информация', blank=True)\n    is_working = models.BooleanField(default=False, verbose_name='Статус работы')\n    slug = models.SlugField(verbose_name='URL', max_length=100, unique=True)\n    def __str__(self):\n        return self.fio\n    class Meta:",
+        "detail": "staff.models",
+        "documentation": {}
+    },
+    {
+        "label": "CmcLangModel",
+        "kind": 6,
+        "importPath": "staff.models",
+        "description": "staff.models",
+        "peekOfCode": "class CmcLangModel(models.Model):\n    fio = models.CharField(verbose_name='ФИО', max_length=100)\n    foto = models.ImageField(upload_to='upload/staff', verbose_name='Фото', blank=True)\n    position = models.ForeignKey('PositionModel', on_delete=models.PROTECT, verbose_name='Должность')\n    info = models.TextField(verbose_name='Информация', blank=True)\n    is_working = models.BooleanField(default=False, verbose_name='Статус работы')\n    slug = models.SlugField(verbose_name='URL', max_length=100, unique=True)\n    def __str__(self):\n        return self.fio\n    class Meta:",
+        "detail": "staff.models",
+        "documentation": {}
+    },
+    {
+        "label": "CmcELModel",
+        "kind": 6,
+        "importPath": "staff.models",
+        "description": "staff.models",
+        "peekOfCode": "class CmcELModel(models.Model):\n    fio = models.CharField(verbose_name='ФИО', max_length=100)\n    foto = models.ImageField(upload_to='upload/staff', verbose_name='Фото', blank=True)\n    position = models.ForeignKey('PositionModel', on_delete=models.PROTECT, verbose_name='Должность')\n    info = models.TextField(verbose_name='Информация', blank=True)\n    is_working = models.BooleanField(default=False, verbose_name='Статус работы')\n    slug = models.SlugField(verbose_name='URL', max_length=100, unique=True)\n    def __str__(self):\n        return self.fio\n    class Meta:",
+        "detail": "staff.models",
+        "documentation": {}
+    },
+    {
+        "label": "CmcITModel",
+        "kind": 6,
+        "importPath": "staff.models",
+        "description": "staff.models",
+        "peekOfCode": "class CmcITModel(models.Model):\n    fio = models.CharField(verbose_name='ФИО', max_length=100)\n    foto = models.ImageField(upload_to='upload/staff', verbose_name='Фото', blank=True)\n    position = models.ForeignKey('PositionModel', on_delete=models.PROTECT, verbose_name='Должность')\n    info = models.TextField(verbose_name='Информация', blank=True)\n    is_working = models.BooleanField(default=False, verbose_name='Статус работы')\n    slug = models.SlugField(verbose_name='URL', max_length=100, unique=True)\n    def __str__(self):\n        return self.fio\n    class Meta:",
+        "detail": "staff.models",
+        "documentation": {}
+    },
+    {
+        "label": "CmcFIZModel",
+        "kind": 6,
+        "importPath": "staff.models",
+        "description": "staff.models",
+        "peekOfCode": "class CmcFIZModel(models.Model):\n    fio = models.CharField(verbose_name='ФИО', max_length=100)\n    foto = models.ImageField(upload_to='upload/staff', verbose_name='Фото', blank=True)\n    position = models.ForeignKey('PositionModel', on_delete=models.PROTECT, verbose_name='Должность')\n    info = models.TextField(verbose_name='Информация', blank=True)\n    is_working = models.BooleanField(default=False, verbose_name='Статус работы')\n    slug = models.SlugField(verbose_name='URL', max_length=100, unique=True)\n    def __str__(self):\n        return self.fio\n    class Meta:",
+        "detail": "staff.models",
+        "documentation": {}
+    },
+    {
+        "label": "CyclicMCTransOptions",
+        "kind": 6,
+        "importPath": "staff.translation",
+        "description": "staff.translation",
+        "peekOfCode": "class CyclicMCTransOptions(TranslationOptions):\n    fields = ('info',)\n@register(DepDirectorModel)\nclass CyclicMCTransOptions(TranslationOptions):\n    fields = ('info',)\n@register(DepHeadModel)\nclass CyclicMCTransOptions(TranslationOptions):\n    fields = ('info',)\n@register(CmcOBModel)\nclass CyclicMCTransOptions(TranslationOptions):",
+        "detail": "staff.translation",
+        "documentation": {}
+    },
+    {
+        "label": "CyclicMCTransOptions",
+        "kind": 6,
+        "importPath": "staff.translation",
+        "description": "staff.translation",
+        "peekOfCode": "class CyclicMCTransOptions(TranslationOptions):\n    fields = ('info',)\n@register(DepHeadModel)\nclass CyclicMCTransOptions(TranslationOptions):\n    fields = ('info',)\n@register(CmcOBModel)\nclass CyclicMCTransOptions(TranslationOptions):\n    fields = ('info',)\n@register(CmcLangModel)\nclass CyclicMCTransOptions(TranslationOptions):",
+        "detail": "staff.translation",
+        "documentation": {}
+    },
+    {
+        "label": "CyclicMCTransOptions",
+        "kind": 6,
+        "importPath": "staff.translation",
+        "description": "staff.translation",
+        "peekOfCode": "class CyclicMCTransOptions(TranslationOptions):\n    fields = ('info',)\n@register(CmcOBModel)\nclass CyclicMCTransOptions(TranslationOptions):\n    fields = ('info',)\n@register(CmcLangModel)\nclass CyclicMCTransOptions(TranslationOptions):\n    fields = ('info',)\n@register(CmcELModel)\nclass CyclicMCTransOptions(TranslationOptions):",
+        "detail": "staff.translation",
+        "documentation": {}
+    },
+    {
+        "label": "CyclicMCTransOptions",
+        "kind": 6,
+        "importPath": "staff.translation",
+        "description": "staff.translation",
+        "peekOfCode": "class CyclicMCTransOptions(TranslationOptions):\n    fields = ('info',)\n@register(CmcLangModel)\nclass CyclicMCTransOptions(TranslationOptions):\n    fields = ('info',)\n@register(CmcELModel)\nclass CyclicMCTransOptions(TranslationOptions):\n    fields = ('info',)\n@register(CmcITModel)\nclass CyclicMCTransOptions(TranslationOptions):",
+        "detail": "staff.translation",
+        "documentation": {}
+    },
+    {
+        "label": "CyclicMCTransOptions",
+        "kind": 6,
+        "importPath": "staff.translation",
+        "description": "staff.translation",
+        "peekOfCode": "class CyclicMCTransOptions(TranslationOptions):\n    fields = ('info',)\n@register(CmcELModel)\nclass CyclicMCTransOptions(TranslationOptions):\n    fields = ('info',)\n@register(CmcITModel)\nclass CyclicMCTransOptions(TranslationOptions):\n    fields = ('info',)\n@register(CmcFIZModel)\nclass CyclicMCTransOptions(TranslationOptions):",
+        "detail": "staff.translation",
+        "documentation": {}
+    },
+    {
+        "label": "CyclicMCTransOptions",
+        "kind": 6,
+        "importPath": "staff.translation",
+        "description": "staff.translation",
+        "peekOfCode": "class CyclicMCTransOptions(TranslationOptions):\n    fields = ('info',)\n@register(CmcITModel)\nclass CyclicMCTransOptions(TranslationOptions):\n    fields = ('info',)\n@register(CmcFIZModel)\nclass CyclicMCTransOptions(TranslationOptions):\n    fields = ('info',)\n@register(PositionModel)\nclass CyclicMCTransOptions(TranslationOptions):",
+        "detail": "staff.translation",
+        "documentation": {}
+    },
+    {
+        "label": "CyclicMCTransOptions",
+        "kind": 6,
+        "importPath": "staff.translation",
+        "description": "staff.translation",
+        "peekOfCode": "class CyclicMCTransOptions(TranslationOptions):\n    fields = ('info',)\n@register(CmcFIZModel)\nclass CyclicMCTransOptions(TranslationOptions):\n    fields = ('info',)\n@register(PositionModel)\nclass CyclicMCTransOptions(TranslationOptions):\n    fields = ('position_name',)",
+        "detail": "staff.translation",
+        "documentation": {}
+    },
+    {
+        "label": "CyclicMCTransOptions",
+        "kind": 6,
+        "importPath": "staff.translation",
+        "description": "staff.translation",
+        "peekOfCode": "class CyclicMCTransOptions(TranslationOptions):\n    fields = ('info',)\n@register(PositionModel)\nclass CyclicMCTransOptions(TranslationOptions):\n    fields = ('position_name',)",
+        "detail": "staff.translation",
+        "documentation": {}
+    },
+    {
+        "label": "CyclicMCTransOptions",
+        "kind": 6,
+        "importPath": "staff.translation",
+        "description": "staff.translation",
+        "peekOfCode": "class CyclicMCTransOptions(TranslationOptions):\n    fields = ('position_name',)",
+        "detail": "staff.translation",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "staff.urls",
+        "description": "staff.urls",
+        "peekOfCode": "urlpatterns = [\n]",
+        "detail": "staff.urls",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'app.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
