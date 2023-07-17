@@ -26,7 +26,7 @@ nav {
     justify-content: space-between;
     align-items: center;
 
-    height: 80px;
+    height: 100px;
     padding: 10px 5%;
     width: 100%;
     z-index: 10;
@@ -41,8 +41,8 @@ nav .nav__left {
     align-items: center;
 }
 .nav__left img {
-    width: 40px;
-    height: 40px;
+    width: 64px;
+    height: 64px;
 }
 nav .nav__right {
     display: flex;
@@ -52,7 +52,7 @@ nav .nav__right {
     transition: all .3s linear;
 }
 .nav__right a {
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 600;
     color: rgb(47, 47, 47);
     transition: all .3s linear;
@@ -167,6 +167,7 @@ nav .nav__right {
         top: 0;
         left: 0;
         /* left: -100%; */
+        box-shadow: 0 20vw 0px 20vw rgb(32, 32, 32, .6)
     }
     nav .nav__right {
         gap: 0;
