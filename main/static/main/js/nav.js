@@ -13,11 +13,11 @@ console.log(page)
 navButton.onclick = () => {
     if (menu.style.left == '-100%') {
         menu.style.left = 0
-        document.body.style.overflowY = 'hidden'
+        document.style.overflowY = 'hidden'
         // page.style.opacity = 0
     } else {
         menu.style.left = '-100%'
-        document.body.style.overflowY = 'scroll'
+        document.style.overflowY = 'scroll'
         // page.style.opacity = 1
     }
 }
