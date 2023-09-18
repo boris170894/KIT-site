@@ -45,3 +45,12 @@ class CollegePartnersModel(models.Model):
         verbose_name = 'Партнёры колледжа'
         verbose_name_plural = 'Партнёры колледжа'
 
+""" Документы """
+class CollegeDocsModel(models.Model):
+
+    college_license = models.FileField(upload_to="uploads/Docs",verbose_name="Лицензия")
+    college_reg = models.FileField(upload_to="uploads/Docs",verbose_name="Устав")
+
+    class Meta:
+        verbose_name = 'Документы колледжа'
+        verbose_name_plural = 'Документы колледжа'
