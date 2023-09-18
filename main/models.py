@@ -54,3 +54,5 @@ class CollegeDocsModel(models.Model):
     class Meta:
         verbose_name = 'Документы колледжа'
         verbose_name_plural = 'Документы колледжа'
+
+"""  """
