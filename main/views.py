@@ -1,6 +1,11 @@
 from django.shortcuts import render
 
-from .models import CollegeContactModel, CollegePartnersModel
+from .models import (
+                        CollegeContactModel, 
+                        CollegePartnersModel, 
+                        CollegeHistoryModel, 
+                        CollegeDocsModel
+                     )
 from news.models import NewsModel
 from specialties.models import SpecInfoModel
 
@@ -36,3 +41,19 @@ def applicants(request):
     }
 
     return render(request, 'main/pages/applicants.html', context)
+
+def college_history(request):
+    histories = CollegeHistoryModel.objects.all().order_by('year')
+    
+    context = {
+        'histories': histories
+    }
+    return render(request, 'main/pages/about/college_history.html', context)
+
+def documents(request):
+    documents = CollegeDocsModel.objects.last()
+    
+    context = {
+        'documents': documents
+    }
+    return render(request, 'main/pages/about/documents.html', context)

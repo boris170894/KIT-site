@@ -1,7 +1,12 @@
 from django.contrib import admin
 from modeltranslation.admin import TranslationAdmin
 
-from .models import CollegeContactModel, CollegeHistoryModel, CollegePartnersModel, CollegeDocsModel
+from .models import (
+                        CollegeContactModel, 
+                        CollegeHistoryModel, 
+                        CollegePartnersModel,
+                        CollegeDocsModel,
+                     )
 
 @admin.register(CollegeHistoryModel)
 class CollegeHistoryAdmin(TranslationAdmin):
@@ -14,7 +19,5 @@ class CollegeContactAdmin(TranslationAdmin):
 @admin.register(CollegePartnersModel)
 class CollegePartnersAdmin(TranslationAdmin):
     list_display = ('partner_name',)
-
-@admin.register(CollegeDocsModel)
-class CollegeDocsAdmin(admin.ModelAdmin):
-    list_display=('college_license','college_reg')
+    
+admin.site.register(CollegeDocsModel)

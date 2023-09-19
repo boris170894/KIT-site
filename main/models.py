@@ -7,7 +7,7 @@ class CollegeHistoryModel(models.Model):
     info = models.TextField(verbose_name='Описание')
 
     def __str__(self):
-        return self.year
+        return str(self.year)
     
     class Meta:
         verbose_name = 'История колледжа'
