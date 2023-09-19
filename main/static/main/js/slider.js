@@ -87,9 +87,9 @@ function changeSlide(count) {
     page__about__left__img.src = materials[count].img
 
     if (materials[count].img == '/static/main/img/about/camera.png')  {
-        page__about__left__img.style.height = '80%'
+        page__about__left__img.style.height = '100%'
     } else if (materials[count].img == '/static/main/img/about/cisco.png') {
-        page__about__left__img.style.height = '60%'
+        page__about__left__img.style.height = '100%'
     } else {
         page__about__left__img.style.height = '110%'
     }
