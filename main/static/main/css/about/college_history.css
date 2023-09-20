@@ -93,4 +93,17 @@
     width: 80vw;
     height: 80vh;
     border-radius: 20px;
+    margin-bottom: 3vh;
+}
+.link {
+    background-color: var(--primary);
+    color: var(--white);
+    width: 80vw;
+    border-radius: 10px;
+    padding: 2vh 6vw;
+}
+.link:hover {   
+    background-color: var(--white);
+    box-shadow: 0 0 10px 1px rgb(20,20,20,.3);
+    color: var(--primary);
 }

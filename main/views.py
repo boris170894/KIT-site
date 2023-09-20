@@ -32,14 +32,14 @@ def index(request):
     }
     return render(request, 'main/pages/index.html', context)
 
-"""   """
-def applicants(request):
+""" Абитуриенты  """
+def abiturients(request):
     
     specs = SpecInfoModel.objects.all()
     contacts = CollegeContactModel.objects.all()
 
-    return render(request, 'main/pages/applicants.html', {
-        'specs' : specs,
+    return render(request, 'main/pages/information/abiturients.html', {
+        'specialites' : specs,
         'contacts' : contacts,
     })
 

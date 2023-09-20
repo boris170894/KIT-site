@@ -25,9 +25,6 @@
                     <img src="{{ specialite.spec_img.url }}" alt="specialites" />
 
                     <a href="{% url 'spec:special' specialite.id  %}" class="title">{{ specialite.spec_name }}</a>
-                    {% comment %} {% autoescape off %}
-                        {{ specialite.spec_info|truncatewords:30 }}
-                    {% endautoescape %} {% endcomment %}
                 </div>
                 <div class='specialite__bottom'>
                     <a href="/specs/{{ specialite.id     }}">Узнать Больше </a>
