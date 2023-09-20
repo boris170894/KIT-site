@@ -4,7 +4,7 @@
     align-items: center;
     flex-direction: column;
     width: 100%;
-    padding: 0 8vh 24vh;
+    padding: 0 8vh 35vh;
 }
 .page h2 {
     padding-bottom: 10vh;
@@ -20,6 +20,7 @@
     flex-wrap: wrap;
     width: 100%;
     gap: 1%;
+    row-gap: 8%;
 }
 .specialite {
     display: flex;
@@ -76,11 +77,12 @@
 }
 .spec img {
     width: 100%;
-    height: 40vh;
+    height: 50vh;
     border-radius: 20px;
     object-fit: cover;
     position: relative;
     z-index: -1;
+    filter: brightness(80%);
 }
 .spec img::after {
     position: absolute;
@@ -96,13 +98,16 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    margin-top: -10vh;
+    margin-top: -20vh;
     z-index: 10;
+    padding: 3vh 3vw;
 }
 .spec__content h3 {
     font-size: 32px;
     font-weight: bold;
+    color: white;
 }
 .spec__content p {
     font-size: 22px;
+    margin-top: 8vh;
 }

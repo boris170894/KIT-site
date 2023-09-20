@@ -6,6 +6,7 @@ from .models import (
                         CollegeHistoryModel, 
                         CollegePartnersModel,
                         CollegeDocsModel,
+                        StateSymbolsModel
                      )
 
 @admin.register(CollegeHistoryModel)
@@ -21,3 +22,7 @@ class CollegePartnersAdmin(TranslationAdmin):
     list_display = ('partner_name',)
     
 admin.site.register(CollegeDocsModel)
+
+@admin.register(StateSymbolsModel)
+class StateSymbolsAdmin(TranslationAdmin):
+    list_display = ('name', 'image',)

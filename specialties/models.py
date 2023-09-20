@@ -13,4 +13,3 @@ class SpecInfoModel(models.Model):
     class Meta:
         verbose_name = 'Специальности'
         verbose_name_plural = 'Специальности'
-

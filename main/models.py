@@ -55,4 +55,15 @@ class CollegeDocsModel(models.Model):
         verbose_name = 'Документы колледжа'
         verbose_name_plural = 'Документы колледжа'
 
-"""  """
+""" Государственные Символы """
+class StateSymbolsModel(models.Model):
+    name = models.CharField(verbose_name='Название', max_length=255, blank=True)
+    image = models.ImageField(verbose_name='Изображение', upload_to = 'upload/state-symbols', blank=True)
+    desc = models.TextField(verbose_name='Описание', blank=True)
+    
+    def __str__(self):
+        return self.name
+
+    class Meta:
+        verbose_name = 'Государственные Символы'
+        verbose_name_plural = 'Государственные Символы'
