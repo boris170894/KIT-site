@@ -4,7 +4,9 @@ from . import views
 
 urlpatterns = [
     path('', views.index, name ='index'),
-    path('apps/', views.applicants, name = 'apps'),
+    
+    # Information 
+    path('abiturients/', views.abiturients, name = 'abiturients'),
     
     # About Section
     path('college-history/', views.college_history, name = 'college-history'),
