@@ -4,12 +4,14 @@ from .models import (
                         CollegeContactModel, 
                         CollegePartnersModel, 
                         CollegeHistoryModel, 
-                        CollegeDocsModel
+                        CollegeDocsModel,
+                        StateSymbolsModel
                      )
 from news.models import NewsModel
 from specialties.models import SpecInfoModel
 
 
+""" Главная страница  """
 def index(request):
     public__news_count = NewsModel.objects.filter(news_is_published = True).count()
     last_news = NewsModel.objects.filter(news_is_published = True).order_by('news_create_date')[public__news_count-4:public__news_count-1]
@@ -30,30 +32,37 @@ def index(request):
     }
     return render(request, 'main/pages/index.html', context)
 
+"""   """
 def applicants(request):
     
     specs = SpecInfoModel.objects.all()
     contacts = CollegeContactModel.objects.all()
 
-    context = {
+    return render(request, 'main/pages/applicants.html', {
         'specs' : specs,
         'contacts' : contacts,
-    }
+    })
 
-    return render(request, 'main/pages/applicants.html', context)
-
+""" История Колледжа  """
 def college_history(request):
     histories = CollegeHistoryModel.objects.all().order_by('year')
     
-    context = {
+    return render(request, 'main/pages/about/history.html', {
         'histories': histories
-    }
-    return render(request, 'main/pages/about/history.html', context)
+    })
 
+""" Документы """
 def documents(request):
     documents = CollegeDocsModel.objects.last()
-    
-    context = {
+
+    return render(request, 'main/pages/about/documents.html', {
         'documents': documents
-    }
-    return render(request, 'main/pages/about/documents.html', context)
+    })
+
+""" Государственные Символы """
+def state_symbols(request):
+    symbols = StateSymbolsModel.objects.all()[:3]
+    
+    return render(request, 'main/pages/state/state_symbols.html', {
+        'symbols': symbols
+    })
