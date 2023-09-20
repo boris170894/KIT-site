@@ -169,3 +169,4 @@ CKEDITOR_CONFIGS = {
         'toolbar': 'full',
     },
 }
+X_FRAME_OPTIONS = 'SAMEORIGIN'

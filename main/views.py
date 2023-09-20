@@ -48,7 +48,7 @@ def college_history(request):
     context = {
         'histories': histories
     }
-    return render(request, 'main/pages/about/college_history.html', context)
+    return render(request, 'main/pages/about/history.html', context)
 
 def documents(request):
     documents = CollegeDocsModel.objects.last()
