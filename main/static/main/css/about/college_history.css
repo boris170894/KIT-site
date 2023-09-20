@@ -10,6 +10,7 @@
 }
 .page h2 {
     padding: 2vh 0;
+    font-family: var(--PaytoneOne);
 }
 .page__histories, histories {
     display: flex;
@@ -39,10 +40,11 @@
     font-family: var(--PaytoneOne);
     text-align: center;
     transition: all .3s linear;
+    font-size: calc((1vw + 1vh) * 1.9);
 }
 .history p {
     width: 73%;
-    font-size: 20px;
+    font-size: calc((1vw + 1vh) * 1.1);
     transition: all .3s linear;
 }
 .page__histories__line {
