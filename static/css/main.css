@@ -140,7 +140,7 @@ nav .nav__right {
         transform: rotateY(180deg)!important;
         font-size: 44px !important;
         color: rgb(38, 38, 38, .8);
-        z-index: 10 ;
+        z-index: 1 ;
         position: fixed;
         right: 4%;
         font-weight: bold;
@@ -160,7 +160,7 @@ nav .nav__right {
 
         position: fixed;
         background-color: #fff;
-        z-index: 4;
+        z-index: 13;
 
         width: 80%;
         height: 100vh;
